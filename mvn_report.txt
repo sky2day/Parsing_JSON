@@ -1,0 +1,45 @@
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Parsing_JSON 1.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ Parsing_JSON ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Workspace\Parsing_JSON\src\main\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ Parsing_JSON ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ Parsing_JSON ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Workspace\Parsing_JSON\src\test\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ Parsing_JSON ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ Parsing_JSON ---
+[INFO] Surefire report directory: C:\Workspace\Parsing_JSON\target\surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running core.AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.027 sec
+
+Results :
+
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ Parsing_JSON ---
+[INFO] 
+[INFO] --- maven-assembly-plugin:2.6:single (assemble-all) @ Parsing_JSON ---
+[INFO] Building jar: C:\Workspace\Parsing_JSON\target\Parsing_JSON-1.1-jar-with-dependencies.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 16.612 s
+[INFO] Finished at: 2016-05-30T16:04:36-07:00
+[INFO] Final Memory: 70M/335M
+[INFO] ------------------------------------------------------------------------
