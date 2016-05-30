@@ -25,7 +25,7 @@
  T E S T S
 -------------------------------------------------------
 Running core.AppTest
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.027 sec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.017 sec
 
 Results :
 
@@ -39,7 +39,7 @@ Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time: 16.612 s
-[INFO] Finished at: 2016-05-30T16:04:36-07:00
-[INFO] Final Memory: 70M/335M
+[INFO] Total time: 16.266 s
+[INFO] Finished at: 2016-05-30T16:19:37-07:00
+[INFO] Final Memory: 70M/365M
 [INFO] ------------------------------------------------------------------------
