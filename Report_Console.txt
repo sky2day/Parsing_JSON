@@ -1,0 +1,30 @@
+Item 1: Adidas Soccer Ball; US Price: 85.51; Country: France; Local price: 76.77
+Item 1: Adidas Soccer Ball; US Price: 85.51; Country: China; Local price: 562.96
+Item 1: Adidas Soccer Ball; US Price: 85.51; Country: United Kingdom; Local price: 58.57
+Item 1: Adidas Soccer Ball; US Price: 85.51; Country: Ukraine; Local price: 2152.71
+Item 1: Adidas Soccer Ball; US Price: 85.51; Country: Russian Federation; Local price: 5640.08
+
+Item 2: Withings Activity Tracker; US Price: 81.4; Country: France; Local price: 73.08
+Item 2: Withings Activity Tracker; US Price: 81.4; Country: China; Local price: 535.33
+Item 2: Withings Activity Tracker; US Price: 81.4; Country: United Kingdom; Local price: 55.68
+Item 2: Withings Activity Tracker; US Price: 81.4; Country: Ukraine; Local price: 2049.24
+Item 2: Withings Activity Tracker; US Price: 81.4; Country: Russian Federation; Local price: 5369.75
+
+Item 3: Samsung Galaxy Phone; US Price: 140.99; Country: France; Local price: 126.58
+Item 3: Samsung Galaxy Phone; US Price: 140.99; Country: China; Local price: 927.64
+Item 3: Samsung Galaxy Phone; US Price: 140.99; Country: United Kingdom; Local price: 96.58
+Item 3: Samsung Galaxy Phone; US Price: 140.99; Country: Ukraine; Local price: 3549.42
+Item 3: Samsung Galaxy Phone; US Price: 140.99; Country: Russian Federation; Local price: 9298.73
+
+Item 4: GoPro HERO3 Camera; US Price: 327.0; Country: France; Local price: 293.91
+Item 4: GoPro HERO3 Camera; US Price: 327.0; Country: China; Local price: 2152.8
+Item 4: GoPro HERO3 Camera; US Price: 327.0; Country: United Kingdom; Local price: 223.67
+Item 4: GoPro HERO3 Camera; US Price: 327.0; Country: Ukraine; Local price: 8232.22
+Item 4: GoPro HERO3 Camera; US Price: 327.0; Country: Russian Federation; Local price: 21571.37
+
+Item 5: Apple iPhone 6s; US Price: 829.99; Country: France; Local price: 745.0
+Item 5: Apple iPhone 6s; US Price: 829.99; Country: China; Local price: 5458.43
+Item 5: Apple iPhone 6s; US Price: 829.99; Country: United Kingdom; Local price: 567.71
+Item 5: Apple iPhone 6s; US Price: 829.99; Country: Ukraine; Local price: 20895.0
+Item 5: Apple iPhone 6s; US Price: 829.99; Country: Russian Federation; Local price: 54752.36
+
